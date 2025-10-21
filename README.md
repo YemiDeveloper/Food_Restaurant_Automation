@@ -8,5 +8,3 @@ This automation demonstrates how I connected multiple tools to streamline order 
 - **Telegram Bot** – Sends instant alerts to the business team.  
 - **Gmail** – Delivers confirmation emails to clients.  
 
-## Demo
-[![Image Alt Text](/images/Screenshot%202025-10-20%20230354.png)](https://www.loom.com/share/7169f340382a4386b212e22441a5309d)
